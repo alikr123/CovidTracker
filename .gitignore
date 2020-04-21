@@ -1,0 +1,13 @@
+a.txt
+Data/
+__pycache__/
+Covid_tracker.py
+geckodriver.log
+jsongen.py
+rqtest.py
+test.py
+test2.py
+time.py
+Ucoe.kv
+CovidTracker_old.kv
+web.py
